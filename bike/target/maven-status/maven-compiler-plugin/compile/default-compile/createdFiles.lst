@@ -1,0 +1,4 @@
+com\sample\angularWithBoot\bike\model\Bike.class
+com\sample\angularWithBoot\bike\BikeApplication.class
+com\sample\angularWithBoot\bike\repositories\BikeRepository.class
+com\sample\angularWithBoot\bike\controller\BikesController.class
